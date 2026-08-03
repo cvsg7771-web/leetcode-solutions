@@ -12,6 +12,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,12 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+## String
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->

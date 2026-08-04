@@ -24,6 +24,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |

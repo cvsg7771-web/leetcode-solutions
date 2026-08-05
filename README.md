@@ -45,11 +45,13 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->

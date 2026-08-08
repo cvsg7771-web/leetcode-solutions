@@ -7,6 +7,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0027-remove-element) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 ## Greedy
@@ -49,6 +50,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |

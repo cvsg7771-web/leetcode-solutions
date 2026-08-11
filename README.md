@@ -9,6 +9,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
@@ -77,6 +78,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -88,6 +90,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
 | ------- |

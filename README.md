@@ -15,6 +15,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
+| [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
+| [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |

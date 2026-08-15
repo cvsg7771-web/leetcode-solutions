@@ -21,6 +21,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +155,8 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->

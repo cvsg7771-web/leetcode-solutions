@@ -19,6 +19,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
+| [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -148,4 +149,8 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

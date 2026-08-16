@@ -39,6 +39,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Enumeration
@@ -99,6 +101,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |

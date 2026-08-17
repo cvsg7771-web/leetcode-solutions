@@ -12,6 +12,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +138,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -156,11 +158,13 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +177,8 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

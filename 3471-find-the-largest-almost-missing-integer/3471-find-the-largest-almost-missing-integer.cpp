@@ -15,7 +15,7 @@ public:
 
         for(int i=0;i<n;i++)
         {
-            if(k==n||mp[nums[i]]==1&&(k==1||i==n-1||i==0))
+            if(k==n||(k==1||i==0||i==n-1)&&mp[nums[i]]==1)
             {
                 ans=max(ans,nums[i]);
             }

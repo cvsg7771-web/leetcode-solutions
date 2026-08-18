@@ -8,52 +8,20 @@ public:
         unordered_map<int,int>mp;
         for(int i=0;i<nums.size();i++)
         {
-            mp[nums[i]]++;;
+            mp[nums[i]]++;
         }
-        int ans=INT_MIN;
-        if(k==nums.size())
+        int ans=-1;
+        int n=nums.size();
+
+        for(int i=0;i<n;i++)
         {
-            for(auto a:mp)
+            if(k==n||mp[nums[i]]==1&&(k==1||i==n-1||i==0))
             {
-               
-                    ans=max(ans,a.first);
-                
-
+                ans=max(ans,nums[i]);
             }
-            return ans == INT_MIN ? -1 : ans;
         }
-        int a1=INT_MIN;
-        if(k==1)
-        {
-            for(auto a:mp)
-            {
-                if(a.second==1)
-                {
-                    a1=max(a.first,a1);
-                }
-            }
-              return a1 == INT_MIN ? -1 : a1;
-
-        }
-        if(mp[nums[0]]>1&&mp[nums[nums.size()-1]]>1)
-        {
-            return -1;
-        }
-        if(mp[nums[0]]==1&&mp[nums[nums.size()-1]]==1)
-        {
-            return max(nums[0],nums[nums.size()-1]);
-        }
-
-        if(mp[nums[0]]==1)
-        {
-            return nums[0];
-        }
-        else
-        {
-            return nums[nums.size()-1];
-        }
-
-        return -1;
+        
+        return ans;
         
 
         

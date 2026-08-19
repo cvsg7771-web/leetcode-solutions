@@ -1,44 +1,48 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        int ans = 2 * n;
-        unordered_map<int, vector<bool>> mp;
-       
-        for (int i = 0; i < reservedSeats.size(); i++) {
-           
-            int row = reservedSeats[i][0];
-            int col = reservedSeats[i][1];
-             if(mp.find(row)==mp.end())
-             mp[row] = vector<bool>(3, true);
-            if (reservedSeats[i][1] >= 2 && reservedSeats[i][1] <= 5) {
-
-                mp[row][0] = false;
+        unordered_map<int,vector<int>>mp;
+         int ans=2*n;
+        for(auto &r:reservedSeats)
+        {
+            int row=r[0];
+            int col=r[1];
+            if(mp.find(row)==mp.end())
+            mp[row]=vector<int>(3,true);
+            if(r[1]>=2&&r[1]<=5)
+            {
+                mp[row][0]=false;
             }
 
-            if (reservedSeats[i][1] >= 4 && reservedSeats[i][1] <= 7) {
-
-                mp[row][1] = false;
+            if(r[1]>=4&&r[1]<=7)
+            {
+                mp[row][1]=false;
             }
 
-            if (reservedSeats[i][1] >= 6 && reservedSeats[i][1] <= 9) {
-
-                mp[row][2] = false;
+            if(r[1]>=6&&r[1]<=9)
+            {
+                mp[row][2]=false;
             }
+
         }
-        for (auto a : mp) {
-
-            auto v = a.second;
-            if (v[0] && v[2]) {
-
+        for(auto &a:mp)
+        {
+            auto v=a.second;
+            if(v[0]&&v[2])
+            {
                 continue;
-            } else if (v[0] || v[1] || v[2]) {
-
-                ans--;
-            } else {
-
-                ans -= 2;
             }
+            else if(v[0]||v[1]||v[2])
+            {
+               ans--;
+            }
+            else
+            {
+                ans-=2;
+            }
+           
         }
         return ans;
+        
     }
 };

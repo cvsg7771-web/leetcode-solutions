@@ -11,44 +11,43 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        ListNode *temp1=head;
-        ListNode  *temp2=head;
-        ListNode *temp3=head;
-        while(temp1!=nullptr)
-        {
-             ListNode* next = temp1->next;
-            if(temp1->val<head->val)
-            {ListNode *t=temp1->next;
-            temp3->next=t;
-                temp1->next=head;
-                
-                head=temp1;
-                temp1=t;
-            }
-           else if(temp1->val<temp3->val)
-            {temp2=head;
-                while(temp2->next!=temp1&&temp2->next->val<temp1->val)
-                {
-                    temp2=temp2->next;
+        ListNode* t1 = head;
+        ListNode* t2 = head;
+        ListNode* t3 = head;
+        while (t3!= nullptr) {
+            ListNode *next = t3->next;
+           
+            if (t3->val < t2->val) {
+                if (t3->val < head->val) {
+                    ListNode* t4 = t3->next;
+                    t3->next = head;
+                    head = t3;
+                    t2->next = t4;
+                    t3 = t4;
+
+                } else {
+                     t1 = head;
+                    while (t1->next!=t3&&t1->next->val < t3->val) {
+                        t1 = t1->next;
+                    }
+                    ListNode* t4 = t3->next;
+                    t3->next=t1->next;
+
+                    t1->next = t3;
+                    t2->next = t4;
+                    t3 = t4;
                 }
-                ListNode *d=temp1->next;
-               temp1->next = temp2->next;
-                temp2->next = temp1;
-               
-                temp3->next=d;
-                temp1=d;
                
             }
             else
             {
-                    temp3=temp1;
+                t2=t3;
             }
-            temp1=next;
-
-
+            t3=next;
+        
+            
             
         }
         return head;
-        
     }
 };

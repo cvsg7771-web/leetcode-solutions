@@ -24,6 +24,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [1470-shuffle-the-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
@@ -176,6 +177,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |

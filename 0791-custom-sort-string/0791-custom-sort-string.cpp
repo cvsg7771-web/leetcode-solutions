@@ -1,30 +1,26 @@
 class Solution {
 public:
     string customSortString(string order, string s) {
-    vector<int> v(26,0);
-    for(int i=0;i<s.size();i++)
-    {
-        v[s[i]-'a']++;
-    }
-    string ans="";
-    for(int i=0;i<order.size();i++)
-    {
-        while(v[order[i]-'a'])
+        unordered_map<char,int> mp;
+        for(int i=0;i<order.size();i++)
         {
-            ans.push_back(order[i]);
-            v[order[i]-'a']--;
+            mp.insert({order[i],i});
+        }
+        int pos=0;
+        for(char c:order)
+        {
+            for(int j=pos;j<s.size();j++)
+            {
+                if(s[j]==c)
+                {
+                    swap(s[j],s[pos]);
+                    pos++;
 
+                }
+            }
         }
-    }
-    for(int i=0;i<s.size();i++)
-    {
-        while(v[s[i]-'a'])
-        {
-            ans.push_back(s[i]);
-            v[s[i]-'a']--;
-        }
-    }
-    return ans;
+        return s;
+       
         
         
     }

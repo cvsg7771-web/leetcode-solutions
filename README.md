@@ -64,6 +64,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |

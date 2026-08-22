@@ -17,6 +17,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -32,6 +33,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -47,6 +49,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Counting Sort
@@ -68,6 +71,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Dynamic Programming
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -207,4 +211,8 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0148-sort-list) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->

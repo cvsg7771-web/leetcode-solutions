@@ -37,6 +37,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
@@ -67,6 +68,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -84,6 +86,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -111,6 +114,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0383-ransom-note](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Enumeration
 |  |

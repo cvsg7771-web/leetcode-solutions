@@ -26,6 +26,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [1470-shuffle-the-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -52,6 +53,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |

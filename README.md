@@ -65,6 +65,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
@@ -107,6 +108,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -124,6 +126,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |

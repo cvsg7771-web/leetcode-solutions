@@ -1,22 +1,22 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int longest=0;
-        vector<int>fr(256,0);
+        vector<int> freq(256,0);
         int left=0;
-        for(int right=0;right<s.length();right++)
+        int size=0;
+        for(int right=0;right<s.size();right++)
         {
-            fr[s[right]]++;
-            while(fr[s[right]]>1)
+            freq[s[right]]++;
+            while(freq[s[right]]>1)
             {
-                fr[s[left]]--;
+                freq[s[left]]--;
                 left++;
             }
-            longest=max(longest,right-left+1);
+            size=max(size,right-left+1);
+           
+
         }
-        return longest;
-
-
+        return size;
         
     }
 };

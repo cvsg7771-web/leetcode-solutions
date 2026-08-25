@@ -1,18 +1,19 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int>mp;
+        vector<int>v(101,0);
+        
         for(int i=0;i<nums.size();i++)
         {
-            mp.insert(nums[i]);
+            v[nums[i]]=1;
 
         }
-        int a=1;
+        
         int p=k;
-        while(mp.find(p)!=mp.end())
+        
+        while(p<101&&v[p])
         {
-           p=k*a;
-           a++;
+           p+=k;
            
         }
         return p;

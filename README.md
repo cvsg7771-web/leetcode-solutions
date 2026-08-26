@@ -20,6 +20,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -141,6 +142,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -168,6 +170,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0138-copy-list-with-random-pointer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0148-sort-list) |
+| [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
 ## Binary Search
 |  |
 | ------- |

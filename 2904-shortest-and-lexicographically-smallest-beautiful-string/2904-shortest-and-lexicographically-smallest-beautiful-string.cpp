@@ -11,21 +11,23 @@ public:
             v[s[right]-'0']++;
             if(v[1]>=k)
             {
-                while(v[1]>=k)
+                
+              while (s[left] == '0')
+             {
+                 left++;
+               }
+               int curr=right-left+1;
+                if(curr<len)
                 {
-                    string temp=s.substr(left,right-left+1);
-                    if(temp.size()<len)
-                    {
-                        str=temp;
-                        len=right-left+1;
-                    }
-                    else if(temp.size()==len)
-                    {
-                        str=min(temp,str);
-                    }
-                    v[s[left]-'0']--;
-                    left++;
+                    str=s.substr(left,right-left+1);
+                    len=curr;
                 }
+                else if(len==s.substr(left,right-left+1).size())
+                {
+                    str=min(s.substr(left,right-left+1),str);
+                }
+                v[s[left]-'0']--;
+                left++;
             }
 
         }

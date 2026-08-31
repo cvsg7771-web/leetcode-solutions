@@ -17,32 +17,40 @@ public:
             return v;
         }
         int pos=1;
-        vector<int> crit;
+        int first=-1;
+        int last=-1;
+        int mindist=INT_MAX;
+       
         ListNode* hn=head->next;
         while(hn->next!=nullptr)
         {
             if((head->val>hn->val&&hn->val<hn->next->val)||(head->val<hn->val&&hn->val>hn->next->val))
             {
-                crit.push_back(pos);
+                if(first==-1)
+                {
+                    first=pos;
+                }
+                else
+                {
+                    mindist=min(mindist,pos-last);
+                }
+                last=pos;
+                
             }
             pos++;
             head=hn;
             hn=hn->next;
 
         }
-        if(crit.size()<2)
+        if(first==-1;first==last)
         {
             return v;
         }
-         v[1]=crit[crit.size()-1]-crit[0];
-        int mn=INT_MAX;
-        for(int i=1;i<crit.size();i++)
-        {
-            mn=min(mn,crit[i]-crit[i-1]);
 
-        }
-        v[0]=mn;
+        v[0]=mindist;
+        v[1]=last-first;
         return v;
+        
 
          
 

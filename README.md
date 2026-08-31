@@ -184,6 +184,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0148-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Search
 |  |
 | ------- |

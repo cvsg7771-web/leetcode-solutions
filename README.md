@@ -20,6 +20,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
@@ -229,6 +230,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
@@ -265,6 +267,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0234-palindrome-linked-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |

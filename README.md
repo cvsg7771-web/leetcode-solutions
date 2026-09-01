@@ -17,6 +17,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
@@ -263,6 +264,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0155-min-stack](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -271,4 +273,5 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

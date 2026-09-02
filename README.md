@@ -9,6 +9,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0004-median-of-two-sorted-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -91,6 +92,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -114,6 +116,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -267,6 +270,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -279,6 +283,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

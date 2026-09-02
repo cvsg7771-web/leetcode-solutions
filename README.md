@@ -81,6 +81,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0012-integer-to-roman](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0504-base-7](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -131,6 +132,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0504-base-7](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |

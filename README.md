@@ -16,6 +16,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -292,5 +293,6 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

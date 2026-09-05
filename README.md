@@ -12,6 +12,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -300,4 +302,8 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0238-product-of-array-except-self](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

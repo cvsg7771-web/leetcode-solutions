@@ -14,6 +14,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -193,6 +195,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0048-rotate-image](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0020-valid-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -294,6 +298,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum

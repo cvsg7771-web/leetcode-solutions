@@ -27,6 +27,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0739-daily-temperatures](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0877-stone-game) |
@@ -290,6 +291,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0085-maximal-rectangle](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -27,6 +27,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0817-linked-list-components](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -216,6 +217,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0704-binary-search) |
 ## Tree
 |  |
 | ------- |

@@ -7,6 +7,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -144,6 +145,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0003-longest-substring-without-repeating-characters](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -322,4 +324,8 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

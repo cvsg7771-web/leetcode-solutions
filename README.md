@@ -57,6 +57,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0646-maximum-length-of-pair-chain](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -156,6 +157,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0504-base-7](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -301,6 +303,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0503-next-greater-element-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
@@ -308,6 +311,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | ------- |
 | [0020-valid-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |

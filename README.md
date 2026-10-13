@@ -46,6 +46,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -63,6 +64,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0977-squares-of-a-sorted-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |

@@ -44,6 +44,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -271,6 +272,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |

@@ -66,6 +66,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming

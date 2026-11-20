@@ -41,6 +41,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -64,6 +65,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [1927-sum-game](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -84,6 +86,7 @@ Repository containing my LeetCode submissions to showcase data structures, algor
 | [0791-custom-sort-string](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cvsg7771-web/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
